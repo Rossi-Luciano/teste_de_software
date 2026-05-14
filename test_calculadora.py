@@ -55,7 +55,7 @@ def test_multiplicacao_negativos():
 
 
 def test_divisao_resultado_exato():
-    assert divisao(10, 2) == 5.0
+    assert divisao(8, 2) == 4.0
 
 
 def test_divisao_por_zero():
